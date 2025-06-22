@@ -9,7 +9,7 @@ Petit projet Python où le joueur doit deviner un nombre aléatoire entre 1 et 1
 - Affichage des essais restants
 - Fin du jeu en cas de victoire ou d’échec
 
-## Technologies utilisées
+## Technologie utilisée
 
 - Langage Python
 
