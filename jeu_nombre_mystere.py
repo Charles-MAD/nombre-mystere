@@ -10,12 +10,12 @@ print("*** Le jeu du nombre mystère ***")
 print("Il te reste 5 essais")
 
 nombre_essais = 5
-nombre_aleatoire = randint(1, 10)
+nombre_aleatoire = randint(1, 100)
 
 
 while nombre_essais > 0:
     nombre_a_deviner = input("Devine le nombre : ")
-    if not nombre_a_deviner.isdigit():
+    if not nombre_a_deviner.isdigit(): # Mesure de sécurité
         print("Veuillez entrer un nombre valide.") 
         continue
 
