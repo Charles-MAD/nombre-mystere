@@ -12,4 +12,4 @@ Petit projet Python où le joueur doit deviner un nombre aléatoire entre 1 et 1
 ## Lancer le jeu
 
 ```bash
-python jeu_nombre_mystere.py
+python3 jeu_nombre_mystere.py
