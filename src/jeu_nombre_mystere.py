@@ -10,7 +10,7 @@ print("*** Le jeu du nombre mystère ***")
 print("Il te reste 5 essais")
 
 nombre_essais = 5
-nombre_aleatoire = randint(1, 100)
+nombre_aleatoire = randint(1, 20)
 
 
 while nombre_essais > 0:
